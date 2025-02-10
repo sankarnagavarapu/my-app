@@ -1,0 +1,61 @@
+Pp
+
+During the requirement analysis phase, we focus on understanding the application’s architecture, system dependencies, and operational requirements. Our primary objective is to ensure high availability, reliability, and performance of the production environment.
+
+In the incident management and troubleshooting phase, we monitor system health, identify performance bottlenecks, and resolve issues through root cause analysis (RCA). We adhere to SLAs (Service Level Agreements) to minimize downtime and provide timely resolutions to production issues.
+
+To ensure stability and efficiency, we continuously collaborate with development and DevOps teams to implement necessary bug fixes, enhancements, and optimizations. This includes log analysis, database performance tuning, and resource scaling in cloud environments like Microsoft Azure.
+
+As part of change and release management, we follow a structured deployment process, including version control, rollback strategies, and impact analysis. We ensure smooth deployments using CI/CD pipelines, automate infrastructure provisioning, and establish post-deployment monitoring to validate system performance.
+
+Objective
+
+The primary objective of the project is to ensure the continuous availability, performance, and stability of IT applications in a production environment. Our goal is to provide proactive monitoring, incident resolution, and performance optimization to minimize downtime and enhance system reliability.
+
+Key focus areas include:
+	•	Incident Management: Swift identification, troubleshooting, and resolution of production issues while adhering to SLA commitments.
+	•	Change & Release Management: Ensuring seamless deployment of updates, patches, and enhancements with minimal impact on business operations.
+	•	Performance Monitoring & Optimization: Utilizing log analysis, system health checks, and database tuning to enhance application efficiency.
+	•	Automation & Process Improvements: Implementing scripts and monitoring tools to reduce manual intervention and improve operational efficiency.
+	•	Collaboration & Knowledge Sharing: Engaging with development, DevOps, and business teams to ensure continuous improvements and effective knowledge transfer.
+
+Regular review meetings, post-incident analysis, and root cause documentation are conducted to track performance, measure key deliverables, and enhance application stability over time.
+
+Job duties
+
+Incident Management & Troubleshooting
+	•	Monitor and analyze application logs, system alerts, and performance metrics to proactively identify issues.
+	•	Troubleshoot and resolve application failures, database performance issues, and integration errors.
+	•	Perform root cause analysis (RCA) for recurring incidents and implement permanent fixes.
+	•	Ensure timely resolution of incidents while adhering to SLAs (Service Level Agreements).
+
+Change & Release Management
+	•	Review and assess application updates, patches, and configuration changes before deployment.
+	•	Coordinate with DevOps and development teams to schedule and execute releases with minimal disruption.
+	•	Implement rollback plans and contingency measures for high-risk deployments.
+
+Performance Monitoring & Optimization
+	•	Conduct capacity planning and system performance analysis to ensure application stability.
+	•	Optimize database queries, application code, and cloud infrastructure for improved efficiency.
+	•	Implement automated monitoring tools to track application health and detect anomalies.
+
+Automation & Process Improvement
+	•	Develop PowerShell, Python, or Shell scripts for automating repetitive support tasks.
+	•	Enhance incident resolution workflows using AI-driven monitoring and alerting tools.
+	•	Implement self-healing mechanisms to reduce manual intervention in production issues.
+
+Collaboration & Documentation
+	•	Work closely with developers, QA, and infrastructure teams to improve system reliability.
+	•	Maintain knowledge base articles, troubleshooting guides, and post-mortem reports.
+	•	Conduct training sessions for team members to ensure smooth production support operations.
+
+Compliance & Security
+	•	Ensure data security, compliance, and audit readiness by enforcing best practices.
+	•	Implement access control mechanisms and monitor user activities to prevent security breaches.
+
+Project technologies 
+
+In .NET application production support management, various technologies are utilized to ensure system stability, performance optimization, and automation. ASP.NET Core, IIS, and Microsoft Azure are key platforms for hosting and managing applications, while SQL Server is used for database management, query optimization, and backup strategies. Monitoring tools such as Dynatrace, Azure Application Insights, and Log Analytics are implemented for real-time tracking, issue detection, and performance tuning.
+
+Automation is achieved using PowerShell, Python, and Azure DevOps Pipelines to streamline deployments, log analysis, and infrastructure provisioning. CI/CD pipelines with Azure DevOps or GitHub Actions help manage controlled releases with minimal downtime. Security best practices, including OAuth, OpenID Connect, and Active Directory (AD) integration, ensure secure authentication and access management. Additionally, Docker and Kubernetes are used for containerization, enabling scalable and efficient deployment of microservices-based applications. These technologies collectively support high availability, seamless maintenance, and operational efficiency in production environments.
+
